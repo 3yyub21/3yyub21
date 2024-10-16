@@ -1,3 +1,3 @@
 * Console.WriteLine("I am Eyyub!");
 
-* print("I am a Student at RWTH Aachen University")
+* System.out.println("I am a Student at RWTH Aachen University");
